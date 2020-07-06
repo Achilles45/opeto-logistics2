@@ -33,7 +33,7 @@
 <script>
 export default {
    mounted(){
-      this.googleTranslateElementInit();
+      // this.googleTranslateElementInit();
        this.fixNav();
     },
   methods: {
