@@ -6,8 +6,8 @@
       >
         <div class="navbar__logo pt-2">
           <router-link to="/" class="logo">
-           <h5><img src="../assets/images/logo.jpg" class="logo__img" alt=""
-          /> <span class="blue">GLOBAL</span> <span class="red">DELIVERY SERVICE</span></h5>
+           <h5><img src="../assets/images/logo.png" class="logo__img" alt=""
+          /> <span class="blue">Ocean</span> <span class="red">Flow Courier</span></h5>
           </router-link>
         </div>
         <div class="navbar__links">

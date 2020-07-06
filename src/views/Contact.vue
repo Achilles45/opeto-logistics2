@@ -16,8 +16,8 @@
           <p>New York, NY 10047, United States of America</p>
           <h6><i class="fa fa-envelope"></i>&nbsp; Support Mail</h6>
            <p><a href="mailto:support@oceanflowcourier.com" class="">support@oceanflowcourier.com</a></p>
-             <!-- <h6><i class="fa fa-phone"></i>&nbsp; Phone Number</h6>
-           <p><a href="tel:+1 (347) 899‑3855" class="">+1 (347) 899‑3855</a></p><br> -->
+             <h6><i class="fa fa-phone"></i>&nbsp; Phone Number</h6>
+           <p><a href="tel:+1 626-400-6360" class="">+1 626-400-6360</a></p><br>
         </div>
         <div class="col-md-5">
           <form @submit.prevent="sendMessage()">
