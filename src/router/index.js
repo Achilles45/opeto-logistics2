@@ -44,7 +44,7 @@ const routes = [
     component: Package
   },
    {
-    path: '/add',
+    path: '/precious',
     name: 'add',
     component: Add
   },

@@ -10,7 +10,7 @@
             the world.
           </p> <br>
           <h6>For enquiries, send mails to</h6>
-            <a href="mailto:support@globaldeliveryservice.net">support@globaldeliveryservice.net</a>
+            <a href="mailto:support@oceanflowcourier.com">support@oceanflowcourier.com</a>
           <h6>You can also contact us at</h6>
           <p>New York, NY 10047, United States of America</p>
         </div>

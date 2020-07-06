@@ -3,7 +3,7 @@
       <div class="container">
           <div class="row">
               <div class="col-md-4">
-                  <p><i class="fa fa-envelope"></i>&nbsp; <a href="mailto:support@globaldeliveryservice.net"></a>support@globaldeliveryservice.net</p>
+                  <p><i class="fa fa-envelope"></i>&nbsp; <a href="mailto:support@oceanflowcourier.com"></a>support@oceanflowcourier.com</p>
               </div>
               <div class="col-md-4">
                   <p><i class="fa fa-clock"></i>&nbsp; Working Hours: 24/7</p>
