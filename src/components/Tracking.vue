@@ -46,7 +46,7 @@ export default {
 </script>
 <style lang="scss" scoped>
 .tracking {
-  padding-top: 5rem;
+  padding-top: 3rem;
   .tracking__wrapper{
     background: #FB7E12;
     padding: 1.5rem 5rem;

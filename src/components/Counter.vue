@@ -3,25 +3,25 @@
      <div class="container">
          <div class="counter__conter">
                   <div class="counter__card">
-                  <img src="../assets/images/ship.svg" class="icons" alt="">
+                  <!-- <img src="../assets/images/ship.svg" class="icons" alt=""> -->
                         <div class="counter" data-target="90000">0</div>
-                        <h5>Total Shipments</h5>
+                        <h5>DELIVERED PACKAGES</h5>
                 </div>
                 <div class="counter__card">
-                   <img src="../assets/images/bus.svg" class="icons" alt="">
+                   <!-- <img src="../assets/images/bus.svg" class="icons" alt=""> -->
                         <div class="counter" data-target="40000">0</div>
-                        <h5>Last-mile Delivery</h5>
+                        <h5>SATISFIED CLIENTS</h5>
                 </div>
                 <div class="counter__card">
-                  <img src="../assets/images/track.svg" class="icons" alt="">
+                  <!-- <img src="../assets/images/track.svg" class="icons" alt=""> -->
                         <div class="counter" data-target="60000">0</div>
-                        <h5>Total Trackings</h5>
+                        <h5>TOONS OF GOODS</h5>
                 </div>
-                <div class="counter__card">
+                <!-- <div class="counter__card">
                     <img src="../assets/images/house.svg" class="icons" alt="">
                         <div class="counter" data-target="3000">0</div>
                         <h5>Packages in our Warehouses</h5>
-                </div>
+                </div> -->
          </div>
      </div>
   </div>
@@ -67,7 +67,9 @@ export default {
 
 <style lang="scss" scoped>
 .counter__wrapper{
-    background: #fafafa;
+    background: url('../assets/images/banner3.png');
+    background-position: center;
+    background-size: cover;
     margin-top: 3rem;
     padding: 4rem 0;
     .counter__conter{
@@ -79,6 +81,9 @@ export default {
             .icons{
                 max-width: 50px;
                 height: auto;
+            }
+            h5{
+                font-weight: bold;
             }
              .counter{
                 font-size: 1.5rem;

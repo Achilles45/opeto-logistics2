@@ -138,7 +138,7 @@ export default {
   .carousel__wrapper {
     .carousel-img {
       width: auto;
-      height: 100vh;
+      height: 70vh;
       max-height: 600px;
       display: block;
     }
