@@ -4,6 +4,7 @@
     <Navbar />
     <Banner />
     <Tracking />
+    <Counter />
     <Services />
     <Why />
     <Gallery />
@@ -19,6 +20,7 @@ import Topbar from '@/components/Topbar.vue'
 import Navbar from '@/components/Navbar.vue'
 import Banner from '@/components/Banner.vue'
 import Tracking from '@/components/Tracking.vue'
+import Counter from '@/components/Counter.vue'
 import Services from '@/components/Services.vue'
 import Why from '@/components/Why.vue'
 import Gallery from '@/components/Gallery.vue'
@@ -33,6 +35,7 @@ export default {
     Navbar,
     Banner,
     Tracking,
+    Counter,
     Services,
     Why,
     Gallery,
