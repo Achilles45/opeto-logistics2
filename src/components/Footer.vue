@@ -12,7 +12,7 @@
           <h6>For enquiries, send mails to</h6>
             <a href="mailto:support@oceanflowcourier.com">support@oceanflowcourier.com</a>
           <h6>You can also contact us at</h6>
-          <p>New York, NY 10047, United States of America</p>
+          <p>Ulus, Altındağ, Ankara State, Turkey</p>
         </div>
         <div class="col-md-4">
           <h3>Useful Links</h3>

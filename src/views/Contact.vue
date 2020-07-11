@@ -13,7 +13,7 @@
         <div class="col-md-5">
           <h3 class="pb-3">Get in touch with us 24 X 7</h3>
           <h6><i class="fa fa-home"></i>&nbsp; Corporate Office</h6>
-          <p>New York, NY 10047, United States of America</p>
+          <p>Ulus, Altındağ, Ankara State, Turkey</p>
           <h6><i class="fa fa-envelope"></i>&nbsp; Support Mail</h6>
            <p><a href="mailto:support@oceanflowcourier.com" class="">support@oceanflowcourier.com</a></p>
              <h6><i class="fa fa-phone"></i>&nbsp; Phone Number</h6>
