@@ -6,8 +6,8 @@
       >
         <div class="navbar__logo pt-2">
           <router-link to="/" class="logo">
-           <h5><img src="../assets/images/logo.png" class="logo__img" alt=""
-          /> <span class="blue">Ocean</span> <span class="red">Flow Courier</span></h5>
+           <h5><img src="../assets/images/logo3.jpg" class="logo__img" alt=""
+          /> </h5>
           </router-link>
         </div>
         <div class="navbar__links">
@@ -125,7 +125,7 @@ export default {
 //MEDIA QUERIES
 @media only screen and (max-width: 1000px) {
    .logo__img {
-    max-width: 50px !important;
+    max-width: 70px !important;
     height: auto;
   }
   .translate__wrapper{
