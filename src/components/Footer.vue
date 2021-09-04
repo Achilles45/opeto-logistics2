@@ -8,19 +8,41 @@
             The Company was established to cater for domestic and commercial
             shipping world wide with our headquartered in and Branches all over
             the world.
-          </p> <br>
+          </p>
+          <br />
           <h6>For enquiries, send mails to</h6>
-            <a href="mailto:support@oceanflowcourier.com">support@oceanflowcourier.com</a>
+          <a href="mailto:support@oceanflowdeliveryservice.com"
+            >support@oceanflowdeliveryservice.com</a
+          >
           <h6>You can also contact us at</h6>
           <p>Ulus, Altındağ, Ankara State, Turkey</p>
         </div>
         <div class="col-md-4">
           <h3>Useful Links</h3>
           <ul class="d-block justify-content-between flex-direction-column">
-            <li><router-link to="/"><i class="fa fa-angle-right"></i>&nbsp;&nbsp; Home</router-link></li>
-            <li><router-link to="/about"><i class="fa fa-angle-right"></i>&nbsp;&nbsp;About Us</router-link></li>
-            <li><router-link to="/contact"><i class="fa fa-angle-right"></i>&nbsp;&nbsp;Contact Us</router-link></li>
-            <li><router-link to="/request"><i class="fa fa-angle-right"></i>&nbsp;&nbsp;Service request</router-link></li>
+            <li>
+              <router-link to="/"
+                ><i class="fa fa-angle-right"></i>&nbsp;&nbsp; Home</router-link
+              >
+            </li>
+            <li>
+              <router-link to="/about"
+                ><i class="fa fa-angle-right"></i>&nbsp;&nbsp;About
+                Us</router-link
+              >
+            </li>
+            <li>
+              <router-link to="/contact"
+                ><i class="fa fa-angle-right"></i>&nbsp;&nbsp;Contact
+                Us</router-link
+              >
+            </li>
+            <li>
+              <router-link to="/request"
+                ><i class="fa fa-angle-right"></i>&nbsp;&nbsp;Service
+                request</router-link
+              >
+            </li>
           </ul>
         </div>
         <div class="col-md-4">
@@ -37,21 +59,19 @@
       </div>
       <br />
       <hr />
-      <small
-        >&copy; All right reserved. Ocean Flow Courier. 2019.</small
-      >
+      <small>&copy; All right reserved. Ocean Flow Courier. 2019.</small>
     </div>
   </footer>
 </template>
 
 <script>
-export default {}
+export default {};
 </script>
 
 <style lang="scss" scoped>
 footer {
   background: linear-gradient(rgba(4, 9, 30, 0.9), rgba(4, 9, 30, 0.9)),
-    url('../assets/images/slider-3.jpg');
+    url("../assets/images/slider-3.jpg");
   background-size: cover;
   background-position: center;
   padding: 5rem 0;
@@ -62,9 +82,9 @@ footer {
     text-transform: uppercase;
     opacity: 0.8;
   }
-  h6{
+  h6 {
     font-size: 1rem;
-    opacity: .9;
+    opacity: 0.9;
     padding-bottom: 1rem;
   }
   p {
@@ -72,12 +92,12 @@ footer {
     opacity: 0.7;
     line-height: 1.7;
   }
-  a{
-    color:#fafafa;
+  a {
+    color: #fafafa;
     line-height: 3;
     text-decoration: none;
-    font-size: .85rem;
-   opacity: .8;
+    font-size: 0.85rem;
+    opacity: 0.8;
   }
   form {
     input {
@@ -90,7 +110,7 @@ footer {
       padding: 0.3rem 0.5rem;
     }
     .newsletter__btn {
-      background: #FB7E12;
+      background: #fb7e12;
       color: #fff;
       padding: 1rem 2.5rem;
       border-radius: 50px;
@@ -103,8 +123,8 @@ footer {
     opacity: 0.7;
   }
 }
-hr{
-  background:#fafafa;
+hr {
+  background: #fafafa;
   widows: 0.05rem;
 }
 </style>
